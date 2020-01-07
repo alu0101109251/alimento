@@ -1,7 +1,7 @@
-# Practica 9 - Programacion Funcional
+# Practica 10 - Lenguaje de Dominio Específico
 
-Esta práctica de laboratorio se ha de realizado utilizando el paradigma de Programación Orientada a Objetos, la herramienta de gestión de dependencias Bundler, la herramienta Guard y la metodología de Desarrollo Dirigido por Pruebas.
-Trabajaremos utilizando el paradigma de programación funcional para hacer cálculos simples sobre dos arrays.
+Esta práctica de laboratorio se ha de realizado utilizando el paradigma de Programación Funcional para definir Lenguajes de Dominio Específico, la herramienta de gestión de dependencias Bundler, la herramienta Guard y la metodología de Desarrollo Dirigido por Pruebas.
+
 
 ## Alimento
 

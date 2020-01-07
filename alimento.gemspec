@@ -5,13 +5,13 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'alimento/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'alimento'
+  spec.name          = 'alimento-alu0101109251'
   spec.version       = Alimento::VERSION
   spec.authors       = ['alu0101109251']
   spec.email         = ['alu0101109251@ull.edu.es']
 
   spec.summary       = %q(Clase Ruby para representar un alimento.)
-  spec.description   = %q(Clase Ruby para la Practica 6 de Lenguajes y Paradigmas de Programacion.)
+  spec.description   = %q(Clase Ruby para la Practica 10 de Lenguajes y Paradigmas de Programacion.)
   spec.homepage      = ''
 
   # Specify which files should be added to the gem when it is released.

@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    alimento (0.1.0)
+    alimento-alu0101109251 (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -81,7 +81,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  alimento!
+  alimento-alu0101109251!
   bundler (~> 2.0)
   coveralls
   guard

@@ -44,4 +44,6 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 Javier Alonso Delgado - https://github.com/alu0101109251 [Initial Work]
 
+[![Coverage Status](https://coveralls.io/repos/github/alu0101109251/alimento/badge.svg?branch=master)](https://coveralls.io/github/alu0101109251/alimento?branch=master)
+
 
